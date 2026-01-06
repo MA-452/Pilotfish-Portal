@@ -18,10 +18,12 @@ To showcase the functionality, design, and scope of the project, screenshots of 
 
 ## Key Features
 
-- Client dashboard with service and account overview  
-- Asset management and detailed asset views  
-- Support ticket tracking and status updates  
-- Clean, responsive UI designed for daily operational use  
+- Secure, web-based customer portal providing real-time access to IT service data  
+- Client dashboard displaying assets, subscriptions, invoices, licenses, contacts, and security metrics  
+- Asset management system with detailed asset views and lifecycle information  
+- Support ticket tracking with status visibility and centralized communication  
+- Automated device classification into support tiers based on warranty status and device age  
+- Responsive UI built with Bootstrap for consistent cross-device usability  
 
 ## Screenshots
 
